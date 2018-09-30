@@ -1,0 +1,7 @@
+--data_root=./data/valid/
+--net=EncoderDecoderNet
+--model_dir=./model_border/
+--input_height=379
+--input_width=344
+--iters=1
+--epoch=45

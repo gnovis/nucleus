@@ -1,0 +1,8 @@
+--dataset=DataSet
+--net=EncoderDecoderNet
+--test_root=./data/test/
+--train_root=./data/train/
+--model_dir=./model_new/
+--solution_dir=solutions/
+--batch_size=5
+--learning_rate=0.001
