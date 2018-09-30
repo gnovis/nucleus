@@ -5,12 +5,12 @@
 - [OpenCV](https://opencv.org/)
 - [SciPy](https://www.scipy.org/)
 
-### Instalation
+### Installation
 ```
 conda create --name nucleus python==3.5 tensorflow==1.3.0 numpy opencv scipy
 ```
 
-### Examples
+### Usage
 ```
 ./train.py @settings/border_train
 ```
