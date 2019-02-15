@@ -1,11 +1,8 @@
 from .dataset import DataSet
-from .net import EncoderDecoderNet, SelectionNet, NoPoolNet, EncoderDecoderDoubleNet
+from .net import EncoderDecoderNet
 
 NETS = {
-    "SelectionNet": SelectionNet,
     "EncoderDecoderNet": EncoderDecoderNet,
-    "NoPoolNet": NoPoolNet,
-    "EncoderDecoderDoubleNet": EncoderDecoderDoubleNet,
 }
 DATASETS = {
     "DataSet": DataSet,
