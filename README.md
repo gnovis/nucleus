@@ -7,13 +7,14 @@ The project contains the experiment which verifies the new method for a microsco
 - [OpenCV](https://opencv.org/)
 - [SciPy](https://www.scipy.org/)
 
-### Installation
-```
-conda create --name nucleus python==3.5 tensorflow numpy opencv scipy
-```
-
 ### Data
 Dataset is possible to download at [kaggle](https://www.kaggle.com/gnovis/nucleus)
+
+### Installation
+```
+conda create --name nucleus tensorflow numpy opencv scipy
+conda activate nucleus
+```
 
 ### Usage
 ```
