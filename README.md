@@ -13,7 +13,7 @@ conda create --name nucleus python==3.5 tensorflow numpy opencv scipy
 ```
 
 ### Data
-Dataset is free available at [kaggle](https://www.kaggle.com/gnovis/nucleus)
+Dataset is possible to download at [kaggle](https://www.kaggle.com/gnovis/nucleus)
 
 ### Usage
 ```
