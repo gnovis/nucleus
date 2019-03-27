@@ -1,8 +1,6 @@
 The project contains the experiment which verifies the new method for a microscope image segmentation task. The description of the new method can be found in my [thesis](jndiplom.pdf) (Czech) or in the [presentation](nuclei_seg_jn.pdf) (English).
 
-<p align="center">
 ![](in_out.png?raw=true "CNN input and output examples")
-</p>
 
 ### Requirements
 - [Python3](https://www.python.org/)
