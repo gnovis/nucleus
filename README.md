@@ -23,3 +23,6 @@ conda activate nucleus
 ```
 ./predict.py @settings/border_predict
 ```
+
+### Example
+![](in_out.png?raw=true "CNN input and output examples")
