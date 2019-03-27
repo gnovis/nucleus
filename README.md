@@ -1,4 +1,4 @@
-The project contains the experiment which verifies the new method for a microscope image segmentation task. The description of the new method can be found in my [thesis](jndiplom.pdf) or in the [presentation](jan_novacek_segmentace.pdf) (only in Czech).
+The project contains the experiment which verifies the new method for a microscope image segmentation task. The description of the new method can be found in my [thesis](jndiplom.pdf) (Czech) or in the [presentation](nuclei_seg_jn.pdf) (English).
 
 ### Requirements
 - [Python3](https://www.python.org/)
